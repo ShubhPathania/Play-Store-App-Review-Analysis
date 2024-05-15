@@ -1,5 +1,5 @@
 # Play Store App Review Analysis
-![image](https://github.com/ShubhPathania/Play-Store-App-Review-Analysis/assets/149718190/941a895d-b322-4789-957d-eef050aac7d8)
+![play_store gif](https://github.com/itsroshan137/Horizontal-Swiper/assets/149718190/77785bce-33b2-49ec-ad7e-0a2ca0393914)
 
 # Introduction:
 
