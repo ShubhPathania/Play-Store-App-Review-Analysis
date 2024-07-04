@@ -19,13 +19,13 @@ Understanding user sentiment isn't just a bonus; it's a game-changer in today's 
 
 The objective of this project is to explore and analyze the Google Play Store apps dataset, which includes information such as category, rating, size, and more. Additionally, a dataset containing customer reviews of the Android apps is provided. The goal is to discover key factors that contribute to app engagement and overall success.
 
-# Project Highlights:
+# 📝 Project Highlights:
 
 - **Data Cleaning:** Data Wrangling or Data Cleaning is a crucial process to ensure clean data for further analysis. This involved removing duplicate entries, handling missing values through techniques like imputation and exclusion (dropping), checking for outliers, handling anomalies, removing special characters, and correcting data types.
 
 - **Data Visualization:** Data visualization helped find relationships between variables and uncover hidden meaningful patterns or trends using various charts, plots and graphs. Data visualization is crucial for effectively communicating insights and telling a compelling story based on the data.
 
-# Key Insights:
+# 🔑 Key Insights:
 
 - **Size & Sentiment:** Smaller apps, with efficient design and faster loading times, not only receive significantly higher ratings but also garner more positive sentiment compared to large-sized apps. This underscores the importance of performance and user experience in influencing user sentiment and driving higher app ratings.
 
