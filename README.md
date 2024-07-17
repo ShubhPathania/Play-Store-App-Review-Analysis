@@ -41,7 +41,7 @@ The objective of this project is to explore and analyze the Google Play Store ap
 
 In conclusion, this EDA project not only provided a detailed understanding of the datasets but also shed light on the aspects of user sentiment in the app market. The insights gained contribute to informed decision-making and lay the foundation for strategic initiatives that can positively impact user experience and overall business success in the dynamic world of mobile applications.
 
-# 🛠️ Build With:
+# 🛠️ Build With
 
 ![image](https://github.com/ShubhPathania/Play-Store-App-Review-Analysis/assets/149718190/00086e6d-c298-4fcb-96d2-a738f98c047d)
 ![image](https://github.com/ShubhPathania/Play-Store-App-Review-Analysis/assets/149718190/2a7b02c2-500f-4696-96b4-af3022843f38)
