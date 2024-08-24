@@ -1,21 +1,11 @@
 # Play Store App Review Analysis
-
-![playstore-ezgif com-crop](https://github.com/user-attachments/assets/b5e98ee3-818f-4e86-ab2f-1850d8be3402)
-
+<img src="https://github.com/user-attachments/assets/b5e98ee3-818f-4e86-ab2f-1850d8be3402" alt="description" width="600" height="500"/>
 
 # Introduction
 
 In a crowded App Store with millions of apps vying for attention, what sets one apart from the rest? This Exploratory Data Analysis (EDA) project delves deep into two datasets - the "Play Store Dataset" and the "User Review Dataset" to unravel the mystery behind user emotions and unlock the secrets behind building apps that people truly love.
 
 Understanding user sentiment isn't just a bonus; it's a game-changer in today's ever-evolving app landscape. It's the key to crafting experiences that are not just functional but engaging, delightful, and ultimately, successful.
-
-# 💾 Project Files Description
-
-**Data:** Contains the datasets used for analysis.
-
-**Analysis:** Includes Google Colab notebook.
-
-**README.md:** Provides an overview of the project.
 
 # Problem Statement
 
@@ -40,6 +30,14 @@ The objective of this project is to explore and analyze the Google Play Store ap
 # 📜 Conclusion
 
 In conclusion, this EDA project not only provided a detailed understanding of the datasets but also shed light on the aspects of user sentiment in the app market. The insights gained contribute to informed decision-making and lay the foundation for strategic initiatives that can positively impact user experience and overall business success in the dynamic world of mobile applications.
+
+# 💾 Project Files Description
+
+**Data:** Contains the datasets used for analysis.
+
+**Analysis:** Includes Google Colab notebook.
+
+**README.md:** Provides an overview of the project.
 
 # 🛠️ Build With
 
