@@ -1,6 +1,9 @@
 # Play Store App Review Analysis
-<img src="https://github.com/user-attachments/assets/b5e98ee3-818f-4e86-ab2f-1850d8be3402" alt="description" width="600" height="500"/>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b5e98ee3-818f-4e86-ab2f-1850d8be3402" alt="description" width="550" height="450"/>
+<p/>
+  
 # Introduction
 
 In a crowded App Store with millions of apps vying for attention, what sets one apart from the rest? This Exploratory Data Analysis (EDA) project delves deep into two datasets - the "Play Store Dataset" and the "User Review Dataset" to unravel the mystery behind user emotions and unlock the secrets behind building apps that people truly love.
