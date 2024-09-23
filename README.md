@@ -42,7 +42,7 @@ In conclusion, this EDA project not only provided a detailed understanding of th
 
 **README.md:** Provides an overview of the project.
 
-# 🛠️ Build With
+# 🛠️ Built With
 
 ![image](https://github.com/ShubhPathania/Play-Store-App-Review-Analysis/assets/149718190/00086e6d-c298-4fcb-96d2-a738f98c047d)
 ![image](https://github.com/ShubhPathania/Play-Store-App-Review-Analysis/assets/149718190/2a7b02c2-500f-4696-96b4-af3022843f38)
