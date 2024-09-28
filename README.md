@@ -40,6 +40,8 @@ In conclusion, this EDA project not only provided a detailed understanding of th
 
 **Analysis:** Includes Google Colab notebook.
 
+**Tableau Dashboard:** https://public.tableau.com/app/profile/shubham.pathania8853/viz/PlayStoreAppReviewAnalysis_17221710371810/AppsDashboard
+
 **README.md:** Provides an overview of the project.
 
 # 🛠️ Built With
